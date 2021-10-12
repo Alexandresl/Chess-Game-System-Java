@@ -10,7 +10,7 @@ This project was developed with the following technologies:
 
 This application consists of a simple chess game that can be run through the terminal. The game has error handling, defensive programming (against bugs), special chess moves (promotion, castling and en passant) and prediction of the movement of pieces.
   
-Peaces: Pawn, Rook, Knight, Bishop, Queen and King.
+Peaces: ♙ Pawn, ♖ Rook, ♘ Knight, ♗ Bishop, ♕ Queen and ♔ King.
 |-|
 
 * The game mechanics are based on **rows** (_1, 2, 3, 4, 5, 6, 7, 8_) and **columns** (_a, b, c, d, e, f, g, H_):
@@ -32,7 +32,7 @@ Peaces: Pawn, Rook, Knight, Bishop, Queen and King.
 
 ## 🖼️ Images
 
-### Conceptual Model
+### ✍️ Conceptual Model
 
 ![Conceptual Model](images/conceptual-model.png)
 
