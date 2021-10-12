@@ -32,6 +32,8 @@ Peaces: Pawn, Rook, Knight, Bishop, Queen and King.
 
 ## 🖼️ Images
 
+### Conceptual Model
 
+![Conceptual Model](images/conceptual-model.png)
 
-## 📝 license
+## 📝 License
