@@ -41,3 +41,5 @@ Peaces: ♙ Pawn, ♖ Rook, ♘ Knight, ♗ Bishop, ♕ Queen and ♔ King.
 ![Conceptual Model](images/conceptual-model.png)
 
 ## 📝 License
+
+[MIT License](https://github.com/Alexandresl/Chess-System-Java/blob/master/LICENSE.md) © [Alexandre Lima](http://alexandrelima.dev/)
