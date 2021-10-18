@@ -1,5 +1,7 @@
 # :trophy: Chess System Java
 
+![Licence](https://img.shields.io/github/license/alexandresl/Chess-System-Java)
+
 ## 🚀 technologies 
 
 This project was developed with the following technologies:
