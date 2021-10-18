@@ -9,6 +9,8 @@ This project was developed with the following technologies:
 ## 💻 Project
 
 This application consists of a simple chess game that can be run through the terminal. The game has error handling, defensive programming (against bugs), special chess moves (promotion, castling and en passant) and prediction of the movement of pieces.
+
+![Chess System Java UI](images/gif-chess-system-java.gif)
   
 Peaces: ♙ Pawn, ♖ Rook, ♘ Knight, ♗ Bishop, ♕ Queen and ♔ King.
 |-|
