@@ -42,4 +42,4 @@ Peaces: ♙ Pawn, ♖ Rook, ♘ Knight, ♗ Bishop, ♕ Queen and ♔ King.
 
 ## 📝 License
 
-[MIT License](https://github.com/Alexandresl/Chess-System-Java/blob/master/LICENSE.md) © [Alexandre Lima](http://alexandrelima.dev/)
+[MIT License](https://github.com/Alexandresl/Chess-System-Java/blob/main/LICENSE) © [Alexandre Lima](http://alexandrelima.dev/)
