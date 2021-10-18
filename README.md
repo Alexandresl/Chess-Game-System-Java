@@ -2,6 +2,7 @@
 
 ![Licence](https://img.shields.io/github/license/alexandresl/Chess-System-Java)
 ![Repository](https://img.shields.io/badge/Alexandresl-Chess%20System%20Java-blue)
+![Language](https://img.shields.io/badge/Language-Java-yellowgreen)
 
 ## 🚀 technologies 
 
